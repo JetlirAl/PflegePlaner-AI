@@ -1,0 +1,1 @@
+# PflegePlan AI – lauffähige Vercel-Version
